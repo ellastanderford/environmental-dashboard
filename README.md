@@ -7,8 +7,8 @@ This dashboard extracts insights from climate datasets to showcase changes over 
 
 ## 📊 The Dataset
 * **Source:** Kaggle
-* **Dataset Name:** Air Quality
-* **Key Variables tracked:** Year, Country, Global Mean Temperature
+* **Dataset Name:** Air Quality UCI Dataset
+* **Key Variables tracked:** Date, Temperature (T)
 
 ## 🛠️ Setup & Installation
 To run this project locally, clone the repository and install the required dependencies:
